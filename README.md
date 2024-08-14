@@ -1,5 +1,3 @@
-Here’s a simple README for your Flipkart clone project:
-
 ---
 
 # Flipkart Clone - Basic Version
